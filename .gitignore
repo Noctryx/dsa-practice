@@ -1,0 +1,16 @@
+# Compiled C++ executables
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# Debug/build artifacts
+*.pdb
+*.ilk
+
+# Temporary files
+*.tmp
+*.txt
+# VS Code workspace settings (optional)
+.vscode/
